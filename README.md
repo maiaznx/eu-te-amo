@@ -255,7 +255,7 @@
     }
   </style>
 </head>
-<body style="background-image: url(coracao-e-amor-alfabeto-sem-costura-de-fundo-vetor-bg_191755-97.avif); background-size: cover; background-position: center;">
+<body style="background-image: url(coracao-e-amor-alfabeto-sem-costura-de-fundo-vetor-bg_191755-97.png); background-size: cover; background-position: center;">
   <main>
     <header>
       <h1>Feliz dia dos namorados</h1>
